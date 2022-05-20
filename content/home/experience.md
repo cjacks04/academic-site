@@ -52,7 +52,7 @@ experience:
   - title: Lecturer
     company: Syracuse University
     company_url: 'http://www.syr.edu/'
-    company_logo: Berkeley_logo
+    company_logo: syr_seal
     location: New York
     date_start: '2017-06-01'
     date_end: '2020-06-01'
