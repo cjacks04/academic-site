@@ -43,7 +43,7 @@ experience:
   - title: Postdoctoral Scholar
     company: University of California, Berkeley
     company_url: 'http://www.berkeley.edu/'
-    company_logo: UC_Berkeley_Seal_80px
+    company_logo: Berkeley_logo.svg
     location: California
     date_start: '2019-06-01'
     date_end: '2018-06-01'
@@ -52,7 +52,7 @@ experience:
   - title: Lecturer
     company: Syracuse University
     company_url: 'http://www.syr.edu/'
-    company_logo: UC_Berkeley_Seal_80px
+    company_logo: Berkeley_logo
     location: New York
     date_start: '2017-06-01'
     date_end: '2020-06-01'
