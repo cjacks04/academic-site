@@ -1,9 +1,9 @@
 ---
 title: Corey Jackson
 role: Assistant Professor, Information School, UW-Madison
-avatar_filename: profile2.png
+avatar_filename: avatar.png
 bio: My research interests include collaboration, learning, and motivation in
-  online social computing platforms.
+  social computing platforms.
 interests:
   - Computer Supported Cooperative Work
   - Social Computing
@@ -44,4 +44,4 @@ highlight_name: true
 ---
 Corey Jackson is an Assistant Professor in The Information School at University of Wisconsin-Madison and co-founder of the UW-Madision Collaborative Computing Group. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CoreyJackson_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
