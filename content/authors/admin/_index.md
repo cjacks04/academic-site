@@ -24,19 +24,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Wisconsin
+    url: https://www.wisc.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Information Science and Technology
+      institution: Syracuse University
+      year: 2019
+    - course: M.S. in Library and Information Science
+      institution: Illinois
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.A. in Political Science
+      institution: Illinois
+      year: 1999
 email: ""
 superuser: true
 highlight_name: true
