@@ -24,8 +24,8 @@ authors:
 author_notes:
   - 
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2020'
+doi: 'https://doi.org/10.1016/j.chb.2019.106198'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020'
@@ -43,9 +43,9 @@ publication_short: In *Comput. Hum. Behav.*
 abstract: Existing literature points to scaffolded training as an effective yet resource-intensive approach to help newcomers learn and stay motivated. Experts need to select relevant learning materials and continuously assess learners' progress. Peer production communities such as Wikipedia and Open Source Software Development projects face the additional problem of turning volunteers into productive participants as soon as possible. To address these challenges, we designed and tested a training regime combining scaffolded instruction and machine learning to select learning materials and gradually introduces new materials to individuals as their competences improve. We evaluated the training regime on 386 participants that contribute to Gravity Spy, an online citizen science project where people are asked to categorize glitches to assist scientists in the search for gravitational waves. Volunteers were assigned to one of two conditions; (1) a machine learning guided training (MLGT) system that continuously assesses volunteers skill level and adjusts the learning materials or (2) an unscaffolded training program where all learning materials were administered at once. Our analysis revealed that volunteers in the MLGT condition were more accurate on the categorization task (an average accuracy of 90% vs. 54%), executed more tasks (an average of 228 vs. 121 tasks), and were retained for a longer period (an average of 2.5 vs. 2 sessions) than volunteers in the unscaffolded training. The results suggest that MLGT is an effective pedagogical approach for training volunteers in categorization tasks and increases volunteers’ motivation.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
-tags: []
+tags: [citizen science, Zooniverse, Gravity Spy]
 
 # Display this page in the Featured widget?
 featured: true
@@ -53,9 +53,9 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: https://doi.org/10.1016/j.chb.2019.106198
+#   url: 
 
-url_pdf: 'https://doi.org/10.1016/j.chb.2019.106198'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
