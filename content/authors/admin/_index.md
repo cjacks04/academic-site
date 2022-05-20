@@ -1,6 +1,7 @@
 ---
 title: Corey Jackson
 role: Assistant Professor, Information School, UW-Madison
+avatar_filename: profile2.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
