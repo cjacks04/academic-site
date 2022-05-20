@@ -43,7 +43,7 @@ experience:
   - title: Postdoctoral Scholar
     company: University of California, Berkeley
     company_url: 'http://www.berkeley.edu/'
-    company_logo: University_of_California,_Berkeley_logo
+    company_logo: Berkeley_logo
     location: California
     date_start: '2019-06-01'
     date_end: '2018-06-01'
