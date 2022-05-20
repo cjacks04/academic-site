@@ -3,12 +3,13 @@ slides: example
 url_pdf: ""
 summary: An example of using the in-built project page.
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
-title: Citizen Science
+title: Volunteer Behaviors in Virtual Citizen Science
 tags:
-  - CitizenScience
+  - Citizen Science
+  - Human Behaviors
 links:
   - icon: twitter
     icon_pack: fab
