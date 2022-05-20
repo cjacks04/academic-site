@@ -20,15 +20,15 @@ content:
   email: cbjackson2@wisc.edu
   phone: 888 888 88 88
   address:
-    street: 640 N. Park Street
+    street: Helen C White Hall, Rm 4284 600 N Park St
     city: Madison
     region: WI
-    postcode: '53703'
+    postcode: '53706'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '43.076660'
+    longitude: '-89.401360'
   appointment_url: '[https://calendly.com](https://calendly.com/cbjackson2)'
   contact_links:
     - icon: twitter
