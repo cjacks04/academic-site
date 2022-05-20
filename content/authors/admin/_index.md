@@ -34,10 +34,10 @@ education:
       year: 2019
     - course: M.S. in Library and Information Science
       institution: Illinois
-      year: 2009
+      year: 2012
     - course: B.A. in Political Science
       institution: Illinois
-      year: 1999
+      year: 2010
 email: ""
 superuser: true
 highlight_name: true
