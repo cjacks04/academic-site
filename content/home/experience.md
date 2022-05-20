@@ -39,6 +39,15 @@ experience:
     date_start: '2020-06-01'
     date_end: '2021-05-19'
     description: 
+    
+  - title: Postdoctoral Scholar
+    company: University of California, Berkeley
+    company_url: 'http://www.wisc.edu/'
+    company_logo: uw-crest-web
+    location: California
+    date_start: '2019-06-01'
+    date_end: '2018-06-01'
+    description: Taught courses in the [Master's in Data Science](https://ischoolonline.berkeley.edu/data-science/) program
 
 design:
   columns: '2'
