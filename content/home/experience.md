@@ -25,7 +25,7 @@ experience:
   - title: Assistant Professor
     company: University of Wisconsin, Madison
     company_url: 'http://www.wisc.edu/'
-    company_logo: org-gc
+    company_logo: uw-crest-web
     location: Wisconsin
     date_start: '2021-05-20'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Anna Julia Postdoctoral Scholar
     company: University of Wisconsin, Madison
     company_url: 'http://www.wisc.edu/'
-    company_logo: org-x
+    company_logo: uw-crest-web
     location: Wisconsin
     date_start: '2020-06-01'
     date_end: '2021-05-19'
