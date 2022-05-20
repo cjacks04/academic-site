@@ -29,7 +29,7 @@ content:
   coordinates:
     latitude: '43.076660'
     longitude: '-89.401360'
-  appointment_url: '[https://calendly.com](https://calendly.com/cbjackson2)'
+  appointment_url: 'https://calendly.com/cbjackson2'
   contact_links:
     - icon: twitter
       icon_pack: fab
