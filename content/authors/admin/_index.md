@@ -1,6 +1,6 @@
 ---
 title: Corey Jackson
-role: Assistant Professor, Information School, UW-Madison
+role: Assistant Professor, The Information School, UW-Madison
 avatar_filename: avatar.png
 bio: My research interests include collaboration, learning, and motivation in
   social computing platforms. 
