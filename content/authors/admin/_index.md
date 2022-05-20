@@ -1,5 +1,5 @@
 ---
-title: Corey Jackson
+title: Corey Jackson, Ph.D.
 role: Assistant Professor, The Information School, UW-Madison
 avatar_filename: avatar.png
 bio: My research interests include collaboration, learning, and motivation in
@@ -42,6 +42,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Corey Jackson is an Assistant Professor in The Information School at University of Wisconsin-Madison and co-founder of the [UW-Madision Collaborative Computing Group](https://collab.ischool.wisc.edu/). His research bridges human-centered computing, computer-supported cooperative work, and design epistemologies from fields such as organization studies and psychology. His work employs qualitative and quantitative methodologies and is informed by a socio-technical perspective. His research contributes to the design of open collaboration platforms and is directed by two complementary approaches: (1) documenting human experiences in social computing platforms and (2) evaluating platform affordances. If you are interested in researching, designing, and building social computing systems, please consider applying to the PhD program at [UW-Madison](https://ischool.wisc.edu/programs/phd-program/).
+Corey is an Assistant Professor in The Information School at University of Wisconsin-Madison and co-founder of the [UW-Madision Collaborative Computing Group](https://collab.ischool.wisc.edu/). His research bridges human-centered computing, computer-supported cooperative work, and design epistemologies from fields such as organization studies and psychology. His work employs qualitative and quantitative methodologies and is informed by a socio-technical perspective. His research contributes to the design of open collaboration platforms and is directed by two complementary approaches: (1) documenting human experiences in social computing platforms and (2) evaluating platform affordances. If you are interested in researching, designing, and building social computing systems, please consider applying to the PhD program at [UW-Madison](https://ischool.wisc.edu/programs/phd-program/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CoreyJackson_CV.pdf" "newtab" >}}vitae{{< /staticref >}}.
