@@ -44,4 +44,4 @@ highlight_name: true
 ---
 Corey Jackson is an Assistant Professor in The Information School at University of Wisconsin-Madison and co-founder of the UW-Madision Collaborative Computing Group. His research bridges human-centered computing, computer-supported cooperative work, and design epistemologies from fields such as organization studies and psychology. His work employs qualitative and quantitative methodologies and is informed by a socio-technical perspective. His research contributes to the design of open collaboration platforms and is directed by two complementary approaches: (1) documenting human experiences in social computing platforms and (2) evaluating platform affordances.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}vitae{{< /staticref >}}.
