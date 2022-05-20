@@ -6,6 +6,19 @@ title: 'Teaching citizen scientists to categorize glitches using machine learnin
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Corey Jackson
+  - Carsten S. {\O}sterlund 
+  - Kevin Crowston 
+  - Mahboobeh Harandi 
+  - Sarah Allen 
+  - Sara Bahaadini 
+  - Scotty Coughlin 
+  - Vicky Kalogera 
+  - Aggelos K. Katsaggelos 
+  - Shane L. Larson 
+  - Neda Rohani 
+  - Joshua R. Smith
+  - Laura Trouille 
+  - Michael Zevin
 
 # Author notes (optional)
 author_notes:
