@@ -42,12 +42,12 @@ experience:
     
   - title: Postdoctoral Scholar
     company: University of California, Berkeley
-    company_url: 'http://www.wisc.edu/'
-    company_logo: uw-crest-web
+    company_url: 'http://www.berkeley.edu/'
+    company_logo: UC_Berkeley_Seal_80px
     location: California
     date_start: '2019-06-01'
     date_end: '2018-06-01'
-    description: Taught courses in the [Master's in Data Science](https://ischoolonline.berkeley.edu/data-science/) program
+    description: Instructor of record for courses in the [Master's in Data Science](https://ischoolonline.berkeley.edu/data-science/) program.
 
 design:
   columns: '2'
