@@ -13,7 +13,7 @@ authors:
 author_notes:
   - 
 
-date: '2020'
+date: '2020-01-01T00:00:00Z'
 doi: '10.17705/1jais.00590'
 
 # Schedule page publish date (NOT publication's date).
