@@ -38,7 +38,7 @@ summary:
 tags: [citizen science, Zooniverse, coordination, folksonomies]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
