@@ -6,7 +6,7 @@ title: 'Teaching citizen scientists to categorize glitches using machine learnin
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Corey Jackson
-  - Carsten S. {\O}sterlund 
+  - Carsten S. Østerlund 
   - Kevin Crowston 
   - Mahboobeh Harandi 
   - Sarah Allen 
@@ -45,7 +45,7 @@ abstract: Existing literature points to scaffolded training as an effective yet 
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: [citizen science, Zooniverse, Gravity Spy]
+tags: [citizen science, Zooniverse, learning]
 
 # Display this page in the Featured widget?
 featured: true
