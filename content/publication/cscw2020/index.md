@@ -15,7 +15,7 @@ authors:
 author_notes:
   - 
 
-date: '2020'
+date: '2020-01-01T00:00:00Z'
 doi: '10.1145/3392841'
 
 # Schedule page publish date (NOT publication's date).
