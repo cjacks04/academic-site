@@ -7,7 +7,7 @@ title: 'Folksonomies to Support Coordination and Coordination of Folksonomies'
 authors:
   - Corey Jackson
   - Kevin Crowston 
-  - Carsten S. Østerlund 
+  - Carsten Østerlund 
   - Mahboobeh Harandi 
 
 # Author notes (optional)
