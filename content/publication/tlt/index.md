@@ -46,7 +46,7 @@ abstract: We present the design of a citizen science system that uses machine le
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: [learning, Gravity Spy, Zooniverse]
+tags: [learning, Zooniverse, citizen science]
 
 # Display this page in the Featured widget?
 featured: false
