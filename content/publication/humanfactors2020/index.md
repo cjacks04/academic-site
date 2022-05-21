@@ -35,7 +35,7 @@ abstract: In this article, we present a study of scientific discovery through tr
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: [digital trace data, work studies]
+tags: [digital trace data, work studies, trace ethnography, human factors]
 
 # Display this page in the Featured widget?
 featured: true
