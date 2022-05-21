@@ -5,9 +5,20 @@ title: 'Building an Apparatus: Refractive, Reflective, and Diffractive Readings 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Carsten S. Østerlund 
   - Kevin Crowston 
-  - Corey Jackson
+  - Shane L. Larson
+  - Neda Rohani 
+  - Joshua R. Smith 
+  - Laura Trouille 
+  - Michael Zevin
+  - Carsten S. Østerlund 
+  - Tae Kyoung Lee 
+  - Corey Brian Jackson 
+  - Mahboobeh Harandi 
+  - Sarah Allen 
+  - Sara Bahaadini 
+  - Scott Coughlin 
+  - Aggelos K. Katsaggelos
 
 # Author notes (optional)
 author_notes:
@@ -35,7 +46,7 @@ abstract: We present the design of a citizen science system that uses machine le
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: [digital trace data, sociomateriality]
+tags: [learning, Gravity Spy, Zooniverse]
 
 # Display this page in the Featured widget?
 featured: false
@@ -67,7 +78,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - digital trace data
+  - learning
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
