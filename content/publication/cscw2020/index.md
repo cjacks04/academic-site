@@ -28,7 +28,7 @@ publishDate: '2020'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the ACM Conference on Human Computer. Interaction*
+publication: In *Proceedings of the ACM Conference on Human Computer Interaction*
 publication_short: In *CSCW*
 
 abstract: Peer production projects involve people in many tasks, from editing articles to analyzing datasets. To facilitate mastery of these practices, projects offer a number of learning resources, ranging from project-defined FAQsto individually-oriented search tools and communal discussion boards. However, it is not clear which project resources best support participant learning, overall and at different stages of engagement. We draw onSørensen's framework of forms of presence to distinguish three types of engagement with learning resources:authoritative, agent-centered and communal. We assigned resources from the Gravity Spy citizen-science into these three categories and analyzed trace data recording interactions with resources using a mixed-effects logistic regression with volunteer performance as an outcome variable. The findings suggest that engagement with authoritative resources (e.g., those constructed by project organizers) facilitates performance initially. However, as tasks become more difficult, volunteers seek and benefit from engagement with their own agent-centered resources and community-generated resources. These findings suggest a broader scope for the design of learning resources for peer production
