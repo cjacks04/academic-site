@@ -24,7 +24,7 @@ authors:
 author_notes:
   - 
 
-date: '2020'
+date: '2020-01-01T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.chb.2019.106198'
 
 # Schedule page publish date (NOT publication's date).
